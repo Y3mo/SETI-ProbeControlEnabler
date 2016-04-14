@@ -10,13 +10,13 @@
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
     },
     "depends" : [
-      { "name": "ModuleManager" },
-      { "name" : "RemoteTech" }
+      	{ "name": "ModuleManager" },
+      	{ "name" : "RemoteTech" }
     ],
     "install" : [
     	{ 
         "find" : "SETIprobeControlEnabler",
 	"install_to" : "GameData" 
-      } 
+      	} 
     ]
 }
