@@ -6,6 +6,7 @@
     "identifier": "SETI-ProbeControlEnabler",
     "abstract"     : "This SETI version of the ProbeControlEnabler retains the integrated omni antennas (SETIrebalance) for manned command pods. Probe core integrated omni antennas still do not work (needs changes to RemoteTech, see RemoteTech github issue tracker). It was inspired by the MM config from Felger.",
     "license"	: "GPL-2.0",
+    "ksp_version_max": "1.99.99",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
     },
